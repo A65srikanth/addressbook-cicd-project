@@ -3,7 +3,7 @@ Revision of project deployment using maven and tomcat
 
 1) create a ubuntu machine 
 
-2) sudo su 
+2) sudo su -
    apt update -y
    apt install maven -y
    mvn --version
